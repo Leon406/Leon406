@@ -8,3 +8,8 @@
 <a href="https://github.com/Leon406/ToolsFx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon406&layout=compact&theme=dracula" />
 </a>
+
+<br/>
+<hr/>
+
+<a href="https://afdian.net/a/leon406">打赏(donate me)</a>
