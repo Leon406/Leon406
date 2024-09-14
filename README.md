@@ -12,4 +12,4 @@
 <br/>
 <hr/>
 
-<a href="https://afdian.net/a/leon406">打赏(buy me a drink)</a>
+<a href="https://afdian.com/a/leon406">打赏(buy me a drink)</a>
